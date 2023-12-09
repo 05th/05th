@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning Java
 - 💬 Ask me about Qa Automation && Manual Qa
 -    Telegram: @QaEngineer
--    Gmail: @raulubiev
