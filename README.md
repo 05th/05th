@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on my knowledge
 - 🌱 I’m currently learning Java
-- 💬 Ask me about Qa Automation && Manual Qa
+- 💬 Ask me about Qa Automation
 -    Telegram: @QaEngineer
