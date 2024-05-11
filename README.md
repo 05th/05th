@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm a software testing engineer
+I'm a software test engineer
