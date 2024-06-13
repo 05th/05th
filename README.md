@@ -1,4 +1,4 @@
-### Hi there I am Rus
+### Hi there I am Rus.
 
-### I'm a software test engineer (Java)
+### I'm a software test engineer (Java).
 
